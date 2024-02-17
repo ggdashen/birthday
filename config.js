@@ -1,19 +1,39 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
         "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "ที่รัก~",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "Today you'll be 21 years old",  // 同上...
+        "Same age as me嘿嘿",
+        "In the new year I hope u",
+        "Better health and better grades",
+        "Graduate successfully!",
+        "And then find a good job",
+        "Althouggh now",
+        "We cant be together",
+        "I cant be by ur side",
+        "When u need me",
+        "This is the worst thing",
+        "But!",
+        "I always think of u",
+        "And care about u in my heart",
+        "Ur my only one!",
+        "Anyway..",
+        "No matter what u become",
+        "I always support u",
+        "TRUST YOU!",
+        "If u ask me why",
+        "I can only tell u",
+        "I LOVE YOU",
+        "You are a light in my life",
+        "I can't leave u",
+        "ที่รัก~",
+        "HAPPY BIRTHDAY~~",
+        "I give u my best wishes",
+        "爱你呀",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -25,7 +45,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        //"心爱的小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
